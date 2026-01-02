@@ -1,0 +1,3 @@
+scope,target,task,model,n_total,n_class1_0p5,n_class0_0,cv_n_splits,cv_n_repeats,roc_auc_mean,roc_auc_std,auprc_mean,auprc_std,pca_n_components,bhattacharyya_distance,fisher_separation_pc1,n_permutations,observed_auc,perm_mean_auc,perm_std_auc,p_value
+Monomer==YES,Mutagenic,0.5_vs_0,LogisticRegression,55,32,23,5,4,0.3845238095238095,0.1322350600677109,0.5776089551982408,0.0999707132739728,10,1.7576421989375215,7.452717634946897e-07,,,,,
+Monomer==YES,Mutagenic,0.5_vs_0,RandomForest,55,32,23,5,4,0.4682738095238094,0.15997549548392967,0.6184563320277606,0.09644402521567955,10,1.7576421989375215,7.452717634946897e-07,10.0,0.4682738095238094,0.5370952380952381,0.11711186860251907,0.8181818181818182

@@ -1,0 +1,11 @@
+scope,target,task,model,perm_index,perm_auc
+Monomer==YES,Mutagenic,0.5_vs_0,RandomForest,1,0.6813095238095238
+Monomer==YES,Mutagenic,0.5_vs_0,RandomForest,2,0.6536309523809524
+Monomer==YES,Mutagenic,0.5_vs_0,RandomForest,3,0.5792261904761904
+Monomer==YES,Mutagenic,0.5_vs_0,RandomForest,4,0.47005952380952387
+Monomer==YES,Mutagenic,0.5_vs_0,RandomForest,5,0.5232142857142857
+Monomer==YES,Mutagenic,0.5_vs_0,RandomForest,6,0.5498809523809525
+Monomer==YES,Mutagenic,0.5_vs_0,RandomForest,7,0.29327380952380955
+Monomer==YES,Mutagenic,0.5_vs_0,RandomForest,8,0.5080357142857144
+Monomer==YES,Mutagenic,0.5_vs_0,RandomForest,9,0.6886904761904761
+Monomer==YES,Mutagenic,0.5_vs_0,RandomForest,10,0.42363095238095233
