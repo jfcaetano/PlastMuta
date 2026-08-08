@@ -6,7 +6,7 @@ Supporting Information for the article "AI-Driven Mutagenic Screening Tool of Pl
 </div>
 
 ## Link to article
-([Published PDF](https://cmsweb.com.sg/rps2prod/esrel2026/epro/pdf/esrel26-p26196.pdf))
+#([Published PDF](https://cmsweb.com.sg/rps2prod/esrel2026/epro/pdf/esrel26-p26196.pdf))
 DOI: http://doi.org/10.3850/ESREL2026061419_esrel26-p26196-cd
 
 ## Script Overview
