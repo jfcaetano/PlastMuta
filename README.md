@@ -5,8 +5,9 @@ Supporting Information for the article "AI-Driven Mutagenic Screening Tool of Pl
   <img src="Supporting Information/Figu1.png" alt="image" width="550" height="300">
 </div>
 
-## [Link to article]
-([url](https://cmsweb.com.sg/rps2prod/esrel2026/epro/pdf/esrel26-p26196.pdf))
+## Link to article
+([Published PDF](https://cmsweb.com.sg/rps2prod/esrel2026/epro/pdf/esrel26-p26196.pdf))
+DOI: http://doi.org/10.3850/ESREL2026061419_esrel26-p26196-cd
 
 ## Script Overview
 _rdkit-calc.py_: This script takes a CSV dataset of molecules, identifies all medium–radical combinations, and for each pair computes a series of RDKit descriptors for both the base SMILES and the radical SMILES. It assembles these descriptors into a new, expanded table as a CSV file.
